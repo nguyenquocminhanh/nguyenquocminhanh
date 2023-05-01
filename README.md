@@ -113,3 +113,4 @@ An inventory management web application, which manages suppliers, customers, pro
 - Email: [minh.boston13@gmail.com](mailto:minh.boston13@gmail.com)
 - LinkedIn: [Minh Nguyen LinkedIn](https://www.linkedin.com/in/minh-nguyen-81ab05140/)
 - GitHub: [Minh Nguyen Github](https://github.com/nguyenquocminhanh)
+- Website: [Minh Nguyen Website](https://minhnguyen.us/)
