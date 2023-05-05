@@ -25,7 +25,24 @@ A real estate full stack web application, which can be dynamically managed throu
 #### Github Link:
 [https://github.com/nguyenquocminhanh/sydenham-capital](https://github.com/nguyenquocminhanh/sydenham-capital)
 
-### 2. Project Name: [Nail Appointment Booking App](https://minh-nail.beauty/)
+### 2. Project Name: [Soccer Data Website](https://europe-soccer-data-minh-nguyen.vercel.app/)
+
+#### Description:
+A Soccer Data web application. The application allows you to keep track of soccer results in the most detailed and accurate way, and also player, soccer team, and league information.
+
+#### Technologies Used:
+- React.js
+- Express.js
+- React Hooks
+- Typescript
+- Football Data API
+
+#### Github Link:
+Frontend: [https://github.com/nguyenquocminhanh/europe-soccer-matches](https://github.com/nguyenquocminhanh/europe-soccer-matches)
+
+Backend: [https://github.com/nguyenquocminhanh/europe-soccer-matches-server](https://github.com/nguyenquocminhanh/europe-soccer-matches-server)
+
+### 3. Project Name: [Nail Appointment Booking App](https://minh-nail.beauty/)
 
 #### Description:
 A web application that allows users to schedule appointments by picking services and nail technicians with available time slots, allows admin to manage (create, remove, update) staffs’ information with booked appointments from users, and to manage staff credentials to access panel and pick working time, dates as their wishes, update profile, and manage own appointments.
@@ -42,7 +59,7 @@ Frontend: [https://github.com/nguyenquocminhanh/nail-appointment-user](https://g
 
 Backend: [https://github.com/nguyenquocminhanh/nail-appointment-admin](https://github.com/nguyenquocminhanh/nail-appointment-admin)
 
-### 3. Project Name: [E-commerce App](https://hangmyxachtay.org/)
+### 4. Project Name: [E-commerce App](https://hangmyxachtay.org/)
 
 #### Description:
 A responsive e-commerce web application which includes features such as online shopping, orders status tracking, customers’ review and rating.
@@ -59,7 +76,7 @@ Frontend: [https://github.com/nguyenquocminhanh/hangmyxachtay-user](https://gith
 
 Backend: [https://github.com/nguyenquocminhanh/hangmyxachtay-admin](https://github.com/nguyenquocminhanh/hangmyxachtay-admin)
 
-### 4. Project Name: [Personal Portfolio Website](https://minhnguyen.us/)
+### 5. Project Name: [Personal Portfolio Website](https://minhnguyen.us/)
 
 #### Description:
 A professional full-stack portfolio web application, which can be dynamically managed through the admin panel.
@@ -76,7 +93,7 @@ Frontend: [https://github.com/nguyenquocminhanh/my-portfolio](https://github.com
 
 Backend: [https://github.com/nguyenquocminhanh/my-portfolio-admin](https://github.com/nguyenquocminhanh/my-portfolio-admin)
 
-### 5. Project Name: [Doctor Appointment Booking App](https://github.com/nguyenquocminhanh/clinic)
+### 6. Project Name: [Doctor Appointment Booking App](https://github.com/nguyenquocminhanh/clinic)
 
 #### Description:
 A doctor appointment full stack Laravel application which includes three types of users admin, doctor, and patient.
@@ -92,7 +109,7 @@ A doctor appointment full stack Laravel application which includes three types o
 #### Github Link:
 [https://github.com/nguyenquocminhanh/clinic](https://github.com/nguyenquocminhanh/clinic)
 
-### 6. Project Name: [Inventory Management App](https://github.com/nguyenquocminhanh/inventory-management-system)
+### 7. Project Name: [Inventory Management App](https://github.com/nguyenquocminhanh/inventory-management-system)
 
 #### Description:
 An inventory management web application, which manages suppliers, customers, products, purchases, invoices, calculating the profit of the company each period, and managing the customer's outstanding balance.
