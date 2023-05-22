@@ -25,7 +25,7 @@ A real estate full stack web application, which can be dynamically managed throu
 #### Github Link:
 [https://github.com/nguyenquocminhanh/sydenham-capital](https://github.com/nguyenquocminhanh/sydenham-capital)
 
-### 2. Project Name: [Personal and Team Task Management Application with Real-time Collaboration](https://www.sydenhamcapital.com/](https://task-manager-phi-flax.vercel.app/)
+### 2. Project Name: [Personal and Team Task Management Application with Real-time Collaboration](https://task-manager-phi-flax.vercel.app/)
 
 #### Description:
 A robust task management application that helps individuals and teams efficiently organize and track their tasks.
